@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [My Bitly](https://github.com/JasonSimms/my-bitly)
+- 🔭 I’m currently working on [My Bitly API](https://github.com/JasonSimms/my-bitly) | [My Bitly Frontend]([https://github.com/JasonSimms/my-bitly](https://github.com/JasonSimms/my-bitly))
 - 🔭 I’m currently working on [Chore Master](https://todo-firebase-1302f.web.app/)
 
 - 📫 How to reach me **simmsthecoder@gmail.com**
